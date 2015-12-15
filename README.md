@@ -1,13 +1,14 @@
 ## Seti_sb
 Sidebar theme for Sublime Text 3
 
----
 
+<br />
 #### Install
 Not supported by package control atm :/  
 But you can do it manually by following these steps:
   1. Clone the repo into your `Packages` folder
-  2. Add `"theme": "Seti_sb.sublime-theme"` to your `Preferences/Settings - User`  
+  2. Add `"theme": "Seti_sb.sublime-theme"` to your `Preferences/Settings - User`
+If you are using [JSNext](https://github.com/Benvie/JavaScriptNext.tmLanguage) try out Monokai_Improved color scheme by adding `"color_scheme": "Packages/Seti_Sb/Monokai_Improved.tmTheme"` to your user preferences. It has the same syntax highlights as JSNext's Monokai Phoenix but with the plain old greenish Monokai background
 
 
 <br />
